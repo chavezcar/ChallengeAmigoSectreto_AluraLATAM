@@ -1,20 +1,22 @@
-# Proyecto Integrador - PROTALENTO.
-El proyecto de este curso estará basado en la creación y desarrollo de un videojuego de texto para recorrer laberintos.
+# CHALLENGE: Amigo Secreto.
+El objetivo principal de este desafío es desarrollar habilidades en lógica de programación, la estructura en el archivo HTML y la codificación en el archivo de estilos CSS ya vienen dadas por ALURA.
 
-Este consistirá en laberintos representados por caracteres ASCII dónde el símbolo "#" representará una pared, el símbolo "." un pasillo y la letra "P" el personaje que deberá completar todo el recorrido del laberinto hasta el final.
+Lo anterior, con el fin de enfocar exclusivamente en la construcción de toda la lógica del código JavaScript, aplicando conceptos clave como funciones, arrays, condicionales y variables.
 
-El código del programa deberá estructucturarse para que el jugador se pueda mover por el mapa usando las teclas ↑ ↓ ← → de tu teclado.
+Esto permitirá enfocar principalmente en la resolución del challenge planteado y mejorar el razonamiento lógico, sin preocuparse por la estructura visual del proyecto.
 
-### Fases de las entregas del proyecto.
-El desarrollo de este proyecto está planeado en 5 fases de entrega, teniendo en cuenta las indicaciones del mentor de Protalento.
+### Lógica del Programa.
+El reto está definido para que el usuario digite tantos nombres como necesite y que el programa arroje el nombre del amigo secreto que le corresponde, de manera aleatoria.
 
 ------------
 
-##### Proyecto Integrador - Entrega No. 1:
-- Crear un archivo README.md con la descripción del proyecto escrita por ti, esta será tu documentación del proyecto.
-- Crear el archivo main del proyecto, dentro del cual se debe pedir el nombre del jugador por teclado e imprimir un mensaje de bienvenida con el nombre.
+##### Puntos claves a señalar:
+- Se valida el ingreso de caracteres no numéricos en el campo requerido.
+- Se validan nombres que no se hayan repetido anteriormente.
 
-###### Archivos de la Entrega No. 1:
-1. PI_parte1_main.py
-2. Readme.md
+###### Archivos de la Entrega:
+1. index.html (Contiene la estructura de la página a visualizar en la web)
+2. app.js (contiene el código que desarrolla la lógica propuesta para el reto)
+3. style.css (contiene los estilos propuestos para el diseño y la visualización de los componentes en la web)
+
 ------------
